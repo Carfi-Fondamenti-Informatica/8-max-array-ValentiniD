@@ -7,4 +7,4 @@
 
 #endif //VALORE_MASSIMO_ARRAY_LIB_H
 
-float max_array (float, int);
+float max_array (float array[], int dimensione);
